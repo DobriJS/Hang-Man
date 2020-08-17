@@ -1,4 +1,8 @@
 # Hang-Man DOM, SVG, Events
+## :heavy_exclamation_mark: Getting started
+#### Just Download files from the link. 
+## :link: 
+
 ### Steps of Implementation :triangular_flag_on_post:
 #### :small_orange_diamond: Draw Hangman with SVG
 #### :small_orange_diamond: Main Styling
