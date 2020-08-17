@@ -1,7 +1,9 @@
 # Hang-Man DOM, SVG, Events
-## :heavy_exclamation_mark: Getting started
-#### Just Download files from the link. 
-### :link: https://github.com/DobriJS/Hang-Man-.git
+## :heavy_exclamation_mark: Getting started 
+#### Just Download files from the link. Open them with your favorite IDE and enjoy :smiley:  
+#### :link: https://github.com/DobriJS/Hang-Man-.git
+#### 
+
 
 ### Steps of Implementation :triangular_flag_on_post:
 #### :small_orange_diamond: Draw Hangman with SVG
